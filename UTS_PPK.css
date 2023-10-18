@@ -1,0 +1,104 @@
+.body {
+    max-width: 1360px;
+}
+#headeratas {
+    background-color: #3a3c48;
+    width:100%;
+    color: #4040a1;  
+}
+#headeratas a {
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+    color: white;
+}
+#container1 {
+    font : 'Quicksand';
+    background-color: #b2b2b4;
+    background-size: cover;
+    opacity: 0.5;
+    height: 500px;
+    padding-top: 230px;
+    max-width: 1360px;
+}
+.col-md-8 {
+    font-size: 15px;
+    margin-left: 185px;
+    padding-top: 50px;
+}
+.jumbotron {
+    background-color:  #7b797a;
+    background-size: cover;
+}
+.rounded-circle {
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 250px;
+}
+#ket1 {
+    margin:auto;
+    width: 300px;
+}
+
+#ket2 {
+    margin:auto;
+    width: 280px;
+    padding-right: 30px;
+}
+#row1 {
+    margin: auto;
+    background-size: cover;
+}
+#logohmps{
+    width: 130px;
+    margin: auto;
+}
+#container2 {
+    padding-top: 50px;
+    background-color: #7b797a;
+    background-size: cover;
+    max-width: 1360px;
+}
+#ketorganisasi{
+    font-size:  17px;
+    width: auto;
+    margin: auto;
+}
+#button{
+    margin-top: 10px;
+    background-color: #4040a1;
+}
+#riwayatpendidikan {
+    background-color: #a99fa0;
+}
+#riwayatorganisasi {
+    text-align: center;
+    margin: auto;
+    background-color: #ded2d3;
+    background-size: cover;
+    font-size: auto;
+}
+#sosmed {
+    margin: auto;
+    width: 20rem;
+}
+#kontakperson {
+    width: 500px;
+    margin: auto;
+    background-color: #a99fa0;
+}
+#KritikSaran{
+     text-align: center;
+     width: 500px;
+     height: auto;
+     margin: auto;
+}
+#emailHelp {
+     color : black;
+}
+#submit {
+     margin-bottom: 10px;
+}
+.col-md-3 {
+     margin-bottom: 20px;
+}
